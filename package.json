@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "parcel-bundler": "^1.9.4"
+  },
+  "name": "ebi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^23.3.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
