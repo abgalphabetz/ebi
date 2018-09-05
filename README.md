@@ -1,4 +1,4 @@
-# Ebi - Kata in Javascript ES6+
+# Ebi - Kata in Javascript ECMAScript2015+
 
 Ebi is a project template for people who want to sharpen their **Javascript** skills through a series of [kata](https://en.wikipedia.org/wiki/Kata_(programming)).
 
